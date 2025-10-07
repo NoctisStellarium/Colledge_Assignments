@@ -1,1 +1,0 @@
-Lab Report 1 Consists of 4 Experiments and a Total of 14 Programs (Completed)
