@@ -1,4 +1,4 @@
-// Write a C Program That Prompts The User to Add Two Numbers.
+// Write a C Program That Prompts The User To Add Two Numbers.
 
 #include <stdio.h>
 
