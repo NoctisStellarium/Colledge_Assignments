@@ -1,4 +1,4 @@
-// Write a C Program To Enter Numbers Till The User Wants. At The End, It Should Display The Count Of Positive, Negative, And Zeroes Entered.
+// Write a C Program To Enter Numbers Till The User Wants. At The End It Should Display The Count Of Positive, Negative, And Zeroes Entered.
 
 #include <stdio.h>
 
