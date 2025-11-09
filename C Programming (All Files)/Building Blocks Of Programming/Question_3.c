@@ -1,4 +1,4 @@
-// Write a Program To Demonstrate Shadowing of a Global Variable by a Local Variable.
+// Write a C Program To Demonstrate Shadowing Of a Global Variable By a Local Variable.
 
 #include <stdio.h>
 
