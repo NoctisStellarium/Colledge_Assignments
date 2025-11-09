@@ -1,4 +1,4 @@
-// Write a Program To Use For Loop to Print Multiplication Table of 5.
+// Write a C Program To Use For Loop To Print Multiplication Table of 5.
 
 #include <stdio.h>
 
