@@ -1,4 +1,4 @@
-// Write a C Program to Print the Address in Multiple Lines.
+// Write a C Program To Print The Address In Multiple Lines.
 
 #include <stdio.h>
 #include <string.h>
