@@ -1,4 +1,4 @@
-// Write a Program To Declare and Define an Integer Variable and Print it.
+// Write a C Program To Declare and Define an Integer Variable and Print It.
 
 #include <stdio.h>
 
