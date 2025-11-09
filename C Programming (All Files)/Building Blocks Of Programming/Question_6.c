@@ -1,4 +1,4 @@
-// Write a Program To Implement a Switch Case Calculator that Supports (+, -, *, /).
+// Write a C Program To Implement a Switch Case Calculator That Supports (+, -, *, /).
 
 #include <stdio.h>
 
