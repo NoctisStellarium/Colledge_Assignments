@@ -1,4 +1,4 @@
-// Write a Program To Declare a Float Without Initializing and Later Assign a Value.
+// Write a C Program To Declare a Float Without Initializing and Later Assign a Value.
 
 #include <stdio.h>
 
