@@ -40,7 +40,7 @@ int main()
     else
     {
         printf("%d Is Not a Prime Number", number);
-    };
+    }
 
     return 0;
 }
