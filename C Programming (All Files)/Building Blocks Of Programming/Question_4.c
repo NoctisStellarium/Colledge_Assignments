@@ -1,4 +1,4 @@
-// Write a Program to Check If a Number Is Divisible by 3 and 5.
+// Write a C Program to Check If a Number Is Divisible By 3 and 5.
 
 #include <stdio.h>
 
