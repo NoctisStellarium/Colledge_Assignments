@@ -1,4 +1,4 @@
-// Write a C Program That Prompts The User to Enter Their Name and Age.
+// Write a C Program That Prompts The User To Enter Their Name And Age.
 
 #include <stdio.h>
 #include <string.h>
