@@ -1,4 +1,4 @@
-// Write a C program That Determines The Day Of The Week for January 1st Of Any Given Year, Based On The Fact That January 1st, 0001 Was a Monday According To The Gregorian Calendar.
+// Write a C Program That Determines The Day Of The Week for January 1st Of Any Given Year, Based On The Fact That January 1st, 0001 Was a Monday According To The Gregorian Calendar.
 
 #include <stdio.h>
 
