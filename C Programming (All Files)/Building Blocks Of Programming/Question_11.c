@@ -1,4 +1,4 @@
-// Write a Function that Prints Factorial Of a Number (Arguments, Don't Return Value).
+// Write a C Function that Prints Factorial Of a Number (Arguments, Don't Return Value).
 
 #include <stdio.h>
 
