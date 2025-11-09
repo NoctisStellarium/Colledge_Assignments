@@ -1,4 +1,4 @@
-// Write a Program To Use Do While Loop To Read Numbers Until User Enters 0.
+// Write a C Program To Use Do While Loop To Read Numbers Until User Enters 0.
 
 #include <stdio.h>
 
