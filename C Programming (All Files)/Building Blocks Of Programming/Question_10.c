@@ -1,4 +1,4 @@
-// Write a Program To Use a Function to Check If a Number is Prime (Arguments, Return Value).
+// Write a C Program To Use a Function to Check If a Number is Prime (Arguments, Return Value).
 
 #include <stdio.h>
 #include <math.h>
