@@ -1,4 +1,4 @@
-// Write a Program To Use If Else Conditions to find the Largest of Three Numbers.
+// Write a C Program To Use If Else Conditions to Find The Largest Of Three Numbers.
 
 #include <stdio.h>
 
