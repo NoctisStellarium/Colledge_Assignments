@@ -1,4 +1,4 @@
-// Write a Program To Use While Loop To Print Fibonacci series Up To N Terms.
+// Write a C Program To Use While Loop To Print Fibonacci Series Up To n Terms.
 
 #include <stdio.h>
 
