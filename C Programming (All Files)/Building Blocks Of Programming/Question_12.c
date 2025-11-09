@@ -1,4 +1,4 @@
-// Write a Program To Use a Function that Returns the Larger of Two Numbers (Arguments, Return Value).
+// Write a C Program To Use a Function That Returns The Larger Of Two Numbers (Arguments, Return Value).
 
 #include <stdio.h>
 
